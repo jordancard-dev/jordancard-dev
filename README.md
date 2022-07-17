@@ -1,4 +1,4 @@
-developer | artist | dreamer
+> developer | artist | dreamer
 
 JORDAN CARD
 ======
