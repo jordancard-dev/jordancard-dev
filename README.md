@@ -2,13 +2,14 @@
 ======
 ```typescript
 const jordan = {
-  pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [Vue, Node, Storybook,  Jest, AWS],
-  architecture: ["microservices", "event-driven"],
+  pronouns: "he" | "his" | "him",
+  code: ["Javascript", "Typescript", "HTML", "CSS"],
+  tools: ["Vue", "Node", "Storybook",  "Jest", "AWS"],
+  architecture: ["microservices", "components"],
   challenge: "I am studying to get my AWS DevOps Certification"
 }
 ```
+
 MY FULL TECH STACK
 ----
 ### Skills
