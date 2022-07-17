@@ -1,7 +1,7 @@
 JORDAN CARD
 ======
 developer | artist | dreamer
-“It’s not the load that breaks you down, it’s the way you carry it.” — Lena Horne
+> “It’s not the load that breaks you down, it’s the way you carry it.” — Lena Horne
 ______
 ```typescript
 const jordan = {
