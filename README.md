@@ -8,8 +8,7 @@ const jordan = {
   adjectives: "developer" | "artist" | "dreamer",
   code: ["Javascript", "Typescript", "HTML", "CSS"],
   tools: ["Vue", "Node", "Storybook",  "Jest", "AWS"],
-  architecture: ["microservices", "components"],
-  challenge: "I am studying to get my AWS DevOps Certification"
+  architecture: ["microservices", "components"]
 }
 ```
 
