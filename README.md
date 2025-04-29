@@ -4,10 +4,9 @@ JORDAN CARD
 ______
 ```typescript
 const jordan = {
-  pronouns: "he" | "his" | "him",
-  adjectives: "developer" | "artist" | "dreamer",
-  code: ["Javascript", "Typescript", "HTML", "CSS"],
-  tools: ["Vue", "Node", "Storybook",  "Jest", "AWS"],
+  adjectives: "developer" | "artist" | "game hobbist",
+  code: ["C#","Javascript", "Typescript", "HTML", "CSS"],
+  tools: ["Vue", "Node", "Storybook",  "Jest", "AWS", "Unity"],
   architecture: ["microservices", "components"]
 }
 ```
